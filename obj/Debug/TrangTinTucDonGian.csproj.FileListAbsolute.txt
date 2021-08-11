@@ -1,0 +1,14 @@
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\bin\TrangTinTucDonGian.dll.config
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\bin\TrangTinTucDonGian.dll
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\bin\TrangTinTucDonGian.pdb
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.csprojAssemblyReference.cache
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.csproj.CoreCompileInputs.cache
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.dll
+C:\Users\PhongVuVP\source\repos\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.pdb
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\bin\TrangTinTucDonGian.dll.config
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\bin\TrangTinTucDonGian.dll
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\bin\TrangTinTucDonGian.pdb
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.csprojAssemblyReference.cache
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.csproj.CoreCompileInputs.cache
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.dll
+E:\FPT\Summer2021\SWT\TrangTinDonGian\.vs\TrangTinDonGian\TrangTinTucDonGian\obj\Debug\TrangTinTucDonGian.pdb
